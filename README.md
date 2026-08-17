@@ -1,4 +1,4 @@
-# experiment3
+# experiment 3
 this was example of payment interface code
 
 # Strategy Pattern Example
